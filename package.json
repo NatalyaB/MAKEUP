@@ -1,0 +1,22 @@
+{
+  "name": "makeup",
+  "version": "1.0.0",
+  "description": "MAKEUP site for LITS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalyaB/MAKEUP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalyaB/MAKEUP/issues"
+  },
+  "homepage": "https://github.com/NatalyaB/MAKEUP#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
